@@ -12,8 +12,6 @@ Data Architect · Systems Thinker
 Rust · Python · AWS · Terraform · Databricks· Snowflake   
 Normandy, France
 
-![stats](https://github-readme-stats.vercel.app/api?username=geronimo-iia&show_icons=true&theme=dark) ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geronimo-iia&layout=compact&theme=dark)
-
 ## What I'm building
 
 I design and build systems where AI is **engineered**, not improvised. Three principles guide most of my work:
