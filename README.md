@@ -37,8 +37,7 @@ The first objective is not autonomy. It is control.
   - [llm-wiki-hugo-cms](https://github.com/geronimo-iia/llm-wiki-hugo-cms) — render your wiki as a static site
   - [asdf-llm-wiki](https://github.com/geronimo-iia/asdf-llm-wiki) — asdf plugin
 
-- **Agent Systems** *(exploration — early days)* — patterns and tooling for observable, controlled agent systems
-  - [agent-foundation](https://github.com/geronimo-iia/agent-foundation) · [agent-software](https://github.com/geronimo-iia/agent-software) · [agent-skills](https://github.com/geronimo-iia/agent-skills) · [agentctl](https://github.com/geronimo-iia/agentctl)
+- **Agent Systems** — patterns and tooling for observable, controlled agent systems: [agent-foundation](https://github.com/geronimo-iia/agent-foundation) · [agent-software](https://github.com/geronimo-iia/agent-software) · [agent-skills](https://github.com/geronimo-iia/agent-skills) · [agentctl](https://github.com/geronimo-iia/agentctl)
 
 ### Software Engineering
 
