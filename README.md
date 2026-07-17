@@ -30,6 +30,12 @@ The first objective is not autonomy. It is control.
 
 ## Projects
 
+### Rust
+
+- **[spma](https://github.com/geronimo-iia/spma)** — Unsupervised anomaly detection for discrete event sequences via MDL-based grammar induction (SP Multiple Alignment)
+- **[petgraph-live](https://github.com/geronimo-iia/petgraph-live)** — Generation-keyed graph cache with persistence and algorithms
+- **[qjl-sketch](https://github.com/geronimo-iia/qjl-sketch)** — CPU-efficient vector compression with strong accuracy trade-offs
+
 ### Knowledge & AI Systems
 
 - **[llm-wiki](https://github.com/geronimo-iia/llm-wiki)** — Git-backed wiki engine with MCP server — documentation that compounds over time
@@ -49,12 +55,6 @@ The first objective is not autonomy. It is control.
 
 - **[terraform-aws-tf-registry](https://github.com/geronimo-iia/terraform-aws-tf-registry)** — Private serverless Terraform registry on AWS
 - **[terraform-aws-tf-registry-cli](https://github.com/geronimo-iia/terraform-aws-tf-registry-cli)** — Python client for terraform-aws-tf-registry
-
-### Rust
-
-- **[spma](https://github.com/geronimo-iia/spma)** — Unsupervised anomaly detection for discrete event sequences via MDL-based grammar induction (SP Multiple Alignment)
-- **[petgraph-live](https://github.com/geronimo-iia/petgraph-live)** — Generation-keyed graph cache with persistence and algorithms
-- **[qjl-sketch](https://github.com/geronimo-iia/qjl-sketch)** — CPU-efficient vector compression with strong accuracy trade-offs
 
 
 ## Outside of code
