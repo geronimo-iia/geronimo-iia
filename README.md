@@ -32,7 +32,7 @@ The first objective is not autonomy. It is control.
 
 ### Rust
 
-- **[spma](https://github.com/geronimo-iia/spma)** — Unsupervised anomaly detection for discrete event sequences via MDL-based grammar induction (SP Multiple Alignment)
+- **[spma](https://github.com/geronimo-iia/spma)** — Unsupervised anomaly detection for discrete event sequences via MDL-based grammar induction (SP Multiple Alignment) — F1=0.893 on HDFS, no labels
 - **[petgraph-live](https://github.com/geronimo-iia/petgraph-live)** — Generation-keyed graph cache with persistence and algorithms
 - **[qjl-sketch](https://github.com/geronimo-iia/qjl-sketch)** — CPU-efficient vector compression with strong accuracy trade-offs
 
