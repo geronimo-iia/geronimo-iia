@@ -8,7 +8,7 @@ Got my first computer at 6 — an Oric Atmos 48K. Never really stopped.
 > Systems should remain understandable over time — by humans, not just machines.
 
 
-Data Architect · Systems Thinker  
+Data Architect · Systems Engineer  
 Rust · Python · AWS · Terraform · Databricks· Snowflake   
 Normandy, France
 
@@ -29,6 +29,8 @@ Knowledge → Context → Execution → Agents → Observability
 The first objective is not autonomy. It is control.
 
 ## Projects
+
+The Rust work is where I take an idea seriously enough to implement it from scratch.
 
 ### Rust
 
