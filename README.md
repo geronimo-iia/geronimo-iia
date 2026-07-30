@@ -34,7 +34,8 @@ The Rust work is where I take an idea seriously enough to implement it from scra
 
 ### Rust
 
-- **[spsc-ring](https://github.com/geronimo-iia/spsc-ring)** — Lock-free SPSC ring buffer — sequence-number protocol, cache-line padded, zero dependencies [![Crates.io](https://img.shields.io/crates/v/spsc-ring.svg)](https://crates.io/crates/spsc-ring)
+- **[sokm-core](https://github.com/geronimo-iia/sokm-core)** — Self-Organizing Kernel Memory — incremental associative learning without backprop or batch training, implementing Hoya (2005)
+- **[spsc-ring](https://github.com/geronimo-iia/spsc-ring)** — Lock-free SPSC ring buffer — sequence-number protocol, cache-line padded, zero dependencies
 - **[spma](https://github.com/geronimo-iia/spma)** — Unsupervised anomaly detection for discrete event sequences via MDL-based grammar induction (SP Multiple Alignment) — F1=0.893 on HDFS, no labels
   - [spma-experiments](https://github.com/geronimo-iia/spma-experiments) — validation experiments and benchmark results
 - **[petgraph-live](https://github.com/geronimo-iia/petgraph-live)** — Generation-keyed graph cache with persistence and algorithms
